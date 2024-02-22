@@ -81,4 +81,6 @@ Contributions are welcome! If you find any issues or have suggestions to improve
 
 ## Author
 Julio Cesar Yamashita Martins - Developer and Data Scientist
-E-mail: yamashitajulio@gmail.com
+
+## E-mail
+yamashitajulio@gmail.com
