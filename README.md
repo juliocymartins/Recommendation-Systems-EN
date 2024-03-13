@@ -1,6 +1,6 @@
 # Recommendation Systems
 
-Two recommendation systems were developed here: one for Disney Plus and another for Amazon. Both employ cosine similarity to provide personalized suggestions to users. The Disney Plus system recommends movies based on user preferences, while the Amazon system recommends products based on review analyses and product data.
+Two recommendation systems were developed here: one for Disney Plus and another for Amazon. Both employ cosine similarity to provide personalized suggestions to users. The Disney Plus system recommends movies based on movies data, while the Amazon system recommends products based on review analyses and product data.
 
 <img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/22/3b/d3/223bd35787baf9b3693e15fb5e856958.gif">
 
